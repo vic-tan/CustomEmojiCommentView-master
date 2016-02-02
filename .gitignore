@@ -1,0 +1,26 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.idea
+*.iml
+*.apk
+*.ap_
+*.class
+*.dex
+/bin
+/gen
+
+# Eclipse project files
+.classpath
+.project
+eclipsebin
+.metadate/
+
+
+*.log
+*.keystore
+out
