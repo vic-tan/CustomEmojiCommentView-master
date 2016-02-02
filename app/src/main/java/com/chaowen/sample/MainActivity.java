@@ -23,6 +23,7 @@ public class MainActivity extends Activity implements CommentView.OnComposeOpera
         textView = (EmojiconTextView)findViewById(R.id.txt);
         commentView = (CommentView)findViewById(R.id.compose);
         commentView.setOperationDelegate(this);
+        
     }
 
 
